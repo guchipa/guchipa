@@ -1,53 +1,45 @@
-# Hi there! 👋
+# Hi there! 👋 I'm guchipa
 
-### 🎓 自己紹介
+### 🎓 About Me
 
-東京理科大学 創域理工学研究科 情報計算科学専攻 修士1年 の **森口陽向（モリグチ ヒナタ）** です。
+都内の理工系大学院で情報計算科学を専攻している修士1年です。
+「技術で音楽体験をアップデートする」をテーマに、Web技術を用いた研究開発を行っています。
 
-主に **TypeScript** を使って、**音楽初学者向けの和音練習支援システム**の研究開発に取り組んでいます。
-
-また、産業技術総合研究所でのアルバイトでは、複数のプロジェクトにて学生チームでの開発に携わってきました。
-
-- C++でRGBD画像処理を行い、Reactでユーザーインターフェースを開発する、[身体障がい者向けジェスチャインタフェース](http://gesture-interface.jp)プロジェクト
-- Unity(C#)で作成する、[災害時救護活動の訓練・学習用のモバイルアプリ](http://www.disaster-medutainment.jp)プロジェクト
-
----
-
-### 🚀 進行中のプロジェクト
-
-* **Chordlens**：和音練習支援システムの研究開発
-    * **概要**: 音楽初学者向けの和音練習支援システム。**Web Audio API**を用いたリアルタイム評価機能の実装に挑戦中。
-    * **技術**: TypeScript, React, Next.js
-    * 🔗 [GitHub: guchipa/chordlens](https://github.com/guchipa/chordlens)
-
-* **家計簿アプリ**：個人用の支出管理SaaS
-    * **概要**: **Next.js (App Router)**と**TypeScript**を用いたフルスタックの支出管理SaaS。**Vercel**を用いた高速デプロイを実践しており、**開発から運用まで**のスキルを示すポートフォリオ。
-    * **技術**: Next.js, TypeScript, Tailwind CSS, MySQL, FastAPI
-    * 🔗 [GitHub: guchipa/kakeibo-app](https://github.com/guchipa/kakeibo-app)
+* **Research**: Web Audio APIを活用した音楽初学者向けの和音練習支援システムの開発
+* **Experience**: 
+    * 国立の研究機関にて、C++/Reactを用いたジェスチャUIの開発に従事
+    * Unity/C#を用いた災害救護訓練用モバイルアプリの開発チームに参加
 
 ---
 
-### 🛠️ 技術スタック
+### 🚀 Projects
 
-| カテゴリ | スキル |
+* **[Chordlens](https://github.com/guchipa/chordlens)**
+    * **概要**: リアルタイム音響解析を用いた和音練習支援システム。
+    * **技術**: TypeScript, React, Next.js, Web Audio API
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Skills |
 | :--- | :--- |
-| **言語** | ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,python,cpp,cs) |
-| **フロントエンド** | ![Tech Stack](https://skillicons.dev/icons?i=react,vue,next,tailwind) |
-| **バックエンド** | ![Tech Stack](https://skillicons.dev/icons?i=django,fastapi,mysql) |
-| **ゲーム開発** | ![Tech Stack](https://skillicons.dev/icons?i=unity) |
-| **DevOps / インフラ** | ![Tech Stack](https://skillicons.dev/icons?i=docker,vercel,github) |
+| **Languages** | ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,python,cpp,cs) |
+| **Frontend** | ![Tech Stack](https://skillicons.dev/icons?i=react,vue,next,tailwind) |
+| **Backend/DB** | ![Tech Stack](https://skillicons.dev/icons?i=django,fastapi,mysql) |
+| **Others** | ![Tech Stack](https://skillicons.dev/icons?i=unity,docker,vercel,github) |
 
 ---
 
-### 📫 連絡先
+### 📫 Contact
 
-* **メール**: 6325555@ed.tus.ac.jp
+* お仕事や開発に関するご連絡は、GitHubのプロフィールにある[Email]、またはIssue/Discussionsからお願いします。
 
 ---
 
-### 📊 GitHubアクティビティ
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guchipa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guchipa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guchipa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guchipa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
